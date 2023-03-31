@@ -1,6 +1,6 @@
 Name:		texlive-crumbs
 Version:	64602
-Release:	1
+Release:	2
 Summary:	Add a Navigation Path to the page header
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/crumbs
